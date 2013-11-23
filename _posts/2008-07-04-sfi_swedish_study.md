@@ -4,7 +4,7 @@ author: 果
 excerpt: SFI是Swedish For Immigrants的缩写，意为移民瑞典语课程。只要年满16周岁，在瑞典...
 layout: post
 permalink: /2008/07/04/sfi_swedish_study/
-categories:
+tags:
   - 游学
 ---
 SFI是Swedish For Immigrants的缩写，意为移民瑞典语课程。只要年满16周岁，在瑞典注册过的居民（具有人口号personnummer即可）就可以报名，并在就近的街区获得免费的瑞典语学习机会。

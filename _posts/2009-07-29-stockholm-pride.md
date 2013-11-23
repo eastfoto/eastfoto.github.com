@@ -3,7 +3,7 @@ title: Stockholm Pride
 author: 果
 layout: post
 permalink: /2009/07/29/stockholm-pride/
-categories:
+tags:
   - 华丽的冒险
   - 游学
 ---

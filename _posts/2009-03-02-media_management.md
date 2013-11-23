@@ -3,7 +3,7 @@ title: 瑞典皇家理工专业介绍一：媒体管理(Media Management)
 author: 果
 layout: post
 permalink: /2009/03/02/media_management/
-categories:
+tags:
   - 游学
 ---
 *为校内网的群组写的文字* 

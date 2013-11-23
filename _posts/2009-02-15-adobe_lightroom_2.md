@@ -3,7 +3,7 @@ title: Adobe Lightroom 简明教程
 author: 果
 layout: post
 permalink: /2009/02/15/adobe_lightroom_2/
-categories:
+tags:
   - 数码琐事-Digital
   - 设计·Design
 ---

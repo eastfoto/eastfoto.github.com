@@ -3,7 +3,7 @@ title: 学习媒体的20个理由
 author: 果
 layout: post
 permalink: /2008/07/06/study_media/
-categories:
+tags:
   - 媒体·Media
 ---
 

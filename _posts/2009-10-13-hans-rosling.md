@@ -3,7 +3,7 @@ title: 一个老头和Google的故事
 author: 果
 layout: post
 permalink: /2009/10/13/hans-rosling/
-categories:
+tags:
   - 媒体·Media
   - 开发-Develop
   - 游学

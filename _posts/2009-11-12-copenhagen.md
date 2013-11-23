@@ -3,7 +3,7 @@ title: Copenhagen
 author: 果
 layout: post
 permalink: /2009/11/12/copenhagen/
-categories:
+tags:
   - 华丽的冒险
   - 媒体·Media
 ---

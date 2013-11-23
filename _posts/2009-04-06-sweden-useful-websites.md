@@ -3,7 +3,7 @@ title: 瑞典生活常用网址
 author: 果
 layout: post
 permalink: /2009/04/06/sweden-useful-websites/
-categories:
+tags:
   - 游学
 ---
 分享一下在瑞典留学和生活常用的网址。

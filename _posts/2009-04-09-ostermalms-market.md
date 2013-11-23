@@ -3,7 +3,7 @@ title: Östermalms大市场
 author: 果
 layout: post
 permalink: /2009/04/09/ostermalms-market/
-categories:
+tags:
   - 游学
 ---
 [Östermalms Saluhall](http://www.saluhallen.com/)位于Östermalmstorg地铁站的北出口。以前在一本介绍Stockholm旅行的书里面有，不过当时没怎么注意。只是说这个市场能够买到新鲜的、传统的瑞典食品。据网站上讲，这家市场是1888年建造的，到现在有200多年历史了。而且在当时看来是相当现代化的建筑。

@@ -3,7 +3,7 @@ title: Moderna Museet 瑞典现代艺术馆
 author: 果
 layout: post
 permalink: /2009/02/23/moderna_museet/
-categories:
+tags:
   - 设计·Design
 ---
 周日，雪。

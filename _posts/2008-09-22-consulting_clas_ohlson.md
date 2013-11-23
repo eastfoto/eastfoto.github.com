@@ -4,7 +4,7 @@ author: 果
 excerpt: 第一次做咨询方面的展示，还是比较生疏。虽然我没有做最终展示，对报告的贡献也有限，但还是积极参与了整个...
 layout: post
 permalink: /2008/09/22/consulting_clas_ohlson/
-categories:
+tags:
   - 游学
 ---
 第一次做咨询方面的展示，还是比较生疏。虽然我没有做最终展示，对报告的贡献也有限，但还是积极参与了整个过程。这种Finance, Accouting高度相关连的幻灯片还是第一次做。许多专业术语，以及专业相关的思维方式一时还没能建立起来。这就对我这个半路出家到商学院的学生来说，是一种挑战，而且收获颇丰。回想过去一年来的商科课程学习，也无非只有四门，Consumer Behavior（消费者行为），Marketing System（市场体系）, Media Management（媒体管理）, Brand Management（品牌管理）。而且前二门由于刚接触[SSE（斯德哥尔摩商学院）][1]的教育方式，以及英语环境，所以真正领悟的很有限；Media Management是提高和投入精力比较多的课程，对战略分析和Ideation（解构思维）有了些提高；Brand Management只参加了一部分，日程冲突较多，仅仅了解到一些表层知识。

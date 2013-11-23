@@ -3,7 +3,7 @@ title: Copenhagen Central Station
 author: 果
 layout: post
 permalink: /2010/11/14/copenhagen-central-station/
-categories:
+tags:
   - 华丽的冒险
 ---
 ![copenhagen central station](http://pic.yupoo.com/lishugo/ACDoMgkn/medium.jpg)

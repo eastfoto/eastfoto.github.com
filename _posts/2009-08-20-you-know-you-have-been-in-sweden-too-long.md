@@ -3,7 +3,7 @@ title: 'You know you’ve been in Sweden too long, when(看看你是否在瑞典
 author: 果
 layout: post
 permalink: /2009/08/20/you-know-you-have-been-in-sweden-too-long/
-categories:
+tags:
   - 游学
 ---
 

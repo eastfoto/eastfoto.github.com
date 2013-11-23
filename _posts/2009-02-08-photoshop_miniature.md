@@ -3,7 +3,7 @@ title: Photoshop实现微缩景观效果
 author: 果
 layout: post
 permalink: /2009/02/08/photoshop_miniature/
-categories:
+tags:
   - 设计·Design
 ---
 前几天看到Flickr上面有不少人发了Miniature（微缩效果）的图片，觉得挺有意思，就用Photoshop CS4模拟一下。

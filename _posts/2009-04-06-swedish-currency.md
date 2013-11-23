@@ -3,7 +3,7 @@ title: 瑞典货币介绍
 author: 果
 layout: post
 permalink: /2009/04/06/swedish-currency/
-categories:
+tags:
   - 游学
 ---
 今天看到一篇介绍瑞典纸币的文字，于是我也搜集了一些资料，丰富一下。

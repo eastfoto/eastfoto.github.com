@@ -3,7 +3,7 @@ title: 斯德哥尔摩图书馆
 author: 果
 layout: post
 permalink: /2009/04/03/stockholm-library/
-categories:
+tags:
   - 游学
 ---
 对于学生来说，图书馆或许是比较重要的一个活动场所。瑞典的公共图书馆非常多，而且基本都免费对外开放。 

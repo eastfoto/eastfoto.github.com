@@ -3,7 +3,7 @@ title: Stockholm购物攻略一：电子产品
 author: 果
 layout: post
 permalink: /2008/08/09/stockholm_shopping_digital/
-categories:
+tags:
   - 数码琐事-Digital
 ---
 *update: 据说OnOff经营不景气，早已申报破产了。不过网上还有东西卖，不知是否被其他商家完成了收购。*

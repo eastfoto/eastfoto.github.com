@@ -3,7 +3,7 @@ title: 瑞典天气
 author: 果
 layout: post
 permalink: /2009/05/28/weather-sweden/
-categories:
+tags:
   - 游学
 ---
 这篇叫做瑞典的天气其实不很恰当，如果称作斯德哥尔摩的天气还能好些。不过据我了解，北部的于默尔会比斯德哥尔摩冷些，哥德堡的风能大些，南部的隆德和马尔默就稍微暖和些了。毕竟瑞典不是很大的国家，因此以斯德哥尔摩作为标准，其他的地方也都差不多。
@@ -17,12 +17,6 @@ categories:
 更新：班级上的瑞典同学刚分享了一个天气预报的网站：[http://www.klart.se][3]，非常的不错。
 
 2009.10.30更新：斯德哥尔摩天气预报
-
-<div id="c_58b031cb9d63a6391693f93b358b2f5a" class="completo">
-  <h2 style="color: #000000; margin: 0 0 3px; padding: 2px; font: bold 13px/1.2 Verdana; text-align: center;">
-    Stockholm Weather
-  </h2>
-</div>
 
  [1]: http://www.thelocal.se/weather/
  [2]: http://www.weather.com/outlook/travel/businesstraveler/local/SWXX0031?lswe=stockholm&lwsa=Weather36HourBusinessTravelerCommand&from=searchbox_typeahead

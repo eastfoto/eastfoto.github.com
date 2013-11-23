@@ -3,7 +3,7 @@ title: 瑞典皇家理工专业介绍二：无线系统(Wireless System)
 author: 果
 layout: post
 permalink: /2009/05/15/wireless-system/
-categories:
+tags:
   - 游学
 ---
 *对于无线系统（Wireless System）的认识，我没有切身的体会。好在有不少朋友在这个专业，所以班门弄斧一下，介绍介绍这个专业。* 

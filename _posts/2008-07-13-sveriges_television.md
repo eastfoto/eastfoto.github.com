@@ -7,7 +7,7 @@ excerpt: |
   它的网址是：http://svt...
 layout: post
 permalink: /2008/07/13/sveriges_television/
-categories:
+tags:
   - 媒体·Media
 ---
 SVT是Sveriges Television的简称，是瑞典国家电视台，或者说是瑞典公共电视台。

@@ -3,7 +3,7 @@ title: 带上老妈去旅行
 author: 果
 layout: post
 permalink: /2009/05/08/travel-with-han/
-categories:
+tags:
   - 华丽的冒险
 ---
 
