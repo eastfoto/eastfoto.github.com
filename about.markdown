@@ -5,18 +5,18 @@ layout: page
 
 a
 
-> Minimalist | Appleist | Unixer | Coder
+> Minimalist | Designer | Photographer | Coder
 
 who involved in 
 
-> [github](https://github.com/waynezhang)
+> [github](https://github.com/eastfoto)
 
 mail 
 
-> echo srvpqxfbyqfvpdtkbjwt | tr yxwvtsrqpkjfdb zuonmlihgeca@.
+> echo mail
 
 or follow 
 
-> [@o_lll](https://twitter.com/#!/o_lll)
+> [@shuguo](http://weibo.com/lishuguo/)
 
 to reach me
