@@ -9,6 +9,8 @@ tags:
 SVT是Sveriges Television的简称，是瑞典国家电视台，或者说是瑞典公共电视台。
 它的网址是：http://svt.se
 
+![SVT photo](http://pic.yupoo.com/lishugo/DmSie1uX/medish.jpg)
+
 维基百科的英文介绍：[Sveriges Television](ttp://en.wikipedia.org/wiki/Sveriges_Television)
 
 SVT目前是瑞典收视率最高的电视台，它由所谓的独立基金建立。主要收入来自于电视定制费(subscription fee)，在瑞典电视定制费是强制交纳的。另外的收入来自于广告。SVT与BBC有着良好的合作关系，很多节目是从BBC直接引用过来。它与BBC共享一部分数据库资源。
