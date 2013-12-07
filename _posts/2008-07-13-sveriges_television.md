@@ -9,7 +9,7 @@ tags:
 SVT是Sveriges Television的简称，是瑞典国家电视台，或者说是瑞典公共电视台。
 它的网址是：http://svt.se
 
-![SVT photo](http://pic.yupoo.com/lishugo/DmSie1uX/medish.jpg)
+![SVT photo](http://pic.yupoo.com/lishugo/DmSm4NQV/medish.jpg)
 
 维基百科的英文介绍：[Sveriges Television](ttp://en.wikipedia.org/wiki/Sveriges_Television)
 
