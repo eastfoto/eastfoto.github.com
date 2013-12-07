@@ -1,5 +1,5 @@
 ---
-title: '8 things I have learned in my 20s
+title: 8 things I have learned in my 20s
 author: 果
 layout: post
 permalink: /2013/10/12/8-things-i-have-learned-in-my-20s/
