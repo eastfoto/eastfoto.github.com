@@ -6,6 +6,8 @@ tags:
   - 
 ---
 
+![apps](http://pic.yupoo.com/lishugo/Dn1xDBSX/medium.jpg)
+
 之前总是不停的尝试新的iOS app，不断的增加新鲜有趣的app，不过最近由于对于Minimalist的进一步痴迷，开始放弃许多不必要的app。
 
 *   __阅读__ 目前只留下网易新闻和雪球了，近期总觉得大盘要走起，所以关注一下雪球，看看大家都怎么想的；另外使用Digg作为原有的RSS阅读器
