@@ -6,7 +6,8 @@ permalink: /2013/10/12/8-things-i-have-learned-in-my-20s/
 tags:
   - 华丽的冒险
 ---
-This Month I will be hitting the major milestone of 30 in my life. Some of you think I'm getting old, others know I have a long way to go before any real wisdom is possible. Regardless I wanted to pass some things off to my friends and also to make sure I'll be able to laugh at myself in ten years for making all the decisions.
+
+This Month I will be hitting the major milestone of 30 in my life. Some of you think I'm getting old, others know I have a long way to go before any real wisdom is possible. Regardless I wanted to pass some things off to my friends and also to make sure I'll be able to laugh at myself in ten years for making all the decisions.
 
 1.  **Never be Afraid to Learn Something New.** I planned to learn coding for more than ten times, but until now still a beginner. And usually, each time when I gave up the excuse would be I am too old to learn it. It's for some fresh graduates.
 2.  **Time is valuable thing.** You are not young. Don't waste your time just wasting time. Make sure you are fulfilled by each hour you spend, and make meaning.
