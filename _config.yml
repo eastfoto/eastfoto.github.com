@@ -5,7 +5,7 @@ name: "EASTFOTO"
 markdown: rdiscount
 
 author: "shuguo"
-atom-baseurl: "http://eastfoto.com"
+atom-baseurl: "http://eastfoto.github.com"
 disqus: "eastfoto"
 
 navigations:
@@ -20,7 +20,7 @@ navigations:
     href: /about.html
   - title: Gallery
     class: fa fa-film
-    href: http://eastfoto.com
+    href: http://eastfoto.github.com
   - title: Blogroll
     class: fa fa-link
     href: /links.html
