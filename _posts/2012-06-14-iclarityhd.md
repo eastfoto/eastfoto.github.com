@@ -6,11 +6,12 @@ permalink: /2012/06/14/iclarityhd/
 tags:
   - 数码琐事-Digital
 ---
-![monster speaker](ttp://www.eastfoto.com/wp-content/uploads/2012/06/monster-speaker.jpg "monster-speaker")
+![monster speaker](http://pic.yupoo.com/lishugo/Dn8Tb3zZ/medish.jpg "monster-speaker")
 
 [魔声][1]这个以高端影音线材起家的品牌（创始人是[华裔][2]），这几年越来越多尝试了消费级的高性能音响，并且成功的把时尚与潮流带到了Monster这个品牌里。iClarity HD属于Monster针对iPhone，iPad等产品，量身打造的一款超级便携的音箱。
 Big Sounds, Small Size. （音质卓越，轻盈小巧）基本就可以完好的诠释出这款产品。下面是这款产品的广告宣传片。
 
+<iframe height=498 width=510 src="http://player.youku.com/embed/XMzEzNjk0MjA0" frameborder=0 > </iframe>
 
 使用感受：
 1. 尺寸超小，完全能够放在一只手里，甚至可以揣进大一点的裤兜里。这种超小的尺寸，自然非常方便携带。适合郊游，外出旅行，开Party等。
@@ -42,6 +43,9 @@ HD走的还是亲民路线。简洁，时尚的设计，精细的做工，完全
 > 无线连接：配有Bluetooth 2.1或更高版本的设备
 > 有线连接：配有标准的3.5毫米耳机插口的设备，如iPod、iPad、iPhone或其他手机等
 > 颜色：黑色
+
+最后附上CNET的视频测评：
+<iframe height=498 width=510 src="http://player.youku.com/embed/XMzM1MzU1NzU2" frameborder=0 > </iframe>
 
 
  [1]: http://www.monstercable.com/ "魔声"
