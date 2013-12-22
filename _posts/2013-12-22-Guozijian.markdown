@@ -1,5 +1,5 @@
 ---
-title: Guozijian
+title: 国子监
 layout: post
 guid: urn:uuid:9c569779-cc79-4501-ac47-c15a8cc1bc8d
 tags:
