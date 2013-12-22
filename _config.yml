@@ -2,6 +2,7 @@ markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title/
 name: "EASTFOTO"
+baseurl: "http://www.eastfoto.com"
 
 author: "shuguo"
 atom-baseurl: "http://eastfoto.github.com"
