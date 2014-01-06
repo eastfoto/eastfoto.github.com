@@ -8,4 +8,4 @@ tags:
 
 ![Czech](http://pic.yupoo.com/lishugo/DqPgszdx/medish.jpg)
 
-友聚友散，不提伤感，彼此挂念，为了前程，打造幸福，默默祝愿。
+A friend leaving today. We will miss you and meet you later. 
