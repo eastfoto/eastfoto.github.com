@@ -1,0 +1,12 @@
+---
+title: wozniak
+layout: post
+guid: urn:uuid:18ef6d30-59b0-42d8-b972-96445a29f626
+tags:
+  - 
+---
+
+![Steve Wozniak](http://pic.yupoo.com/lishugo/DscqDdtf/medish.jpg)
+
+工程师、码农、程序员、技术合伙人的偶像
+
