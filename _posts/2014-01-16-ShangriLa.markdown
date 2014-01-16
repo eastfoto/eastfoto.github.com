@@ -1,5 +1,5 @@
 ---
-title: ShangriLa
+title: Shangri-La
 layout: post
 guid: urn:uuid:fcbd7261-2537-456e-83d8-ef21b562aef2
 tags:
