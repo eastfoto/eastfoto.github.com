@@ -8,5 +8,9 @@ tags:
 
 ![Steve Wozniak](http://pic.yupoo.com/lishugo/DscqDdtf/medish.jpg)
 
-工程师、码农、程序员、技术合伙人的偶像
+What I learned from Steve's talk:
 
+*   Partner is crucial for a start up.
+*   Young man you have to pay for your apartment, so don't forget about your life.
+*   You have to do the dirty work by yourself at first.
+*   Steve Jobs did a lot sales work when they found Apple, it's quite helpful for the business.
