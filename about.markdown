@@ -5,7 +5,7 @@ layout: page
 
 a
 
-> Minimalist | Designer | Photographer | Coder
+> Product Guy | Hacker | Photographer | Minimalist
 
 who involved in 
 
@@ -13,7 +13,7 @@ who involved in
 
 mail 
 
-> lishugo##gmail##
+> lishugo##Gmail##
 
 or follow 
 
