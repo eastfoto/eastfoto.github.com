@@ -3,7 +3,7 @@ title: workday
 layout: post
 guid: urn:uuid:7d71a98f-bc39-4a19-8b21-7ae06add3523
 tags:
-  - 
+  - thinking
 ---
 
 

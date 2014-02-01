@@ -6,7 +6,8 @@ permalink: /2013/01/05/html-email-tips/
 tags:
   - 媒体·Media
   - 数码琐事-Digital
-  - 设计·Design
+  - Design
+  - product
 ---
 研究了一上午关于HTML邮件，终于发现了一些简便的技巧，以方面发送EDM及Newsletter。
 

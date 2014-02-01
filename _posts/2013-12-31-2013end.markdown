@@ -3,7 +3,7 @@ title: 书写在2013末尾
 layout: post
 guid: urn:uuid:72994374-29b9-41f4-9a4b-96c86a1a53c0
 tags:
-  - 
+  - thinking
 ---
 
 ![lappis rain](http://pic.yupoo.com/lishugo/DqwcjzTu/5zDRV.jpg)

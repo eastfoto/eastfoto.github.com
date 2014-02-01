@@ -3,7 +3,7 @@ title: 挚友南飞
 layout: post
 guid: urn:uuid:6c5b326a-f465-4c28-915b-b5c6f6c4ff50
 tags:
-  - 
+  - thinking
 ---
 
 ![Czech](http://pic.yupoo.com/lishugo/DqPgszdx/medish.jpg)

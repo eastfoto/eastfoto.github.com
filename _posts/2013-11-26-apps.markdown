@@ -3,7 +3,7 @@ title: My iOS apps
 layout: post
 guid: urn:uuid:0078d5e1-400f-4bdc-80ff-f3d6c2044f83
 tags:
-  - 
+  - product
 ---
 
 ![apps](http://pic.yupoo.com/lishugo/Dn1xDBSX/medium.jpg)

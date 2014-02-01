@@ -3,7 +3,8 @@ title: Restart
 layout: post
 guid: urn:uuid:9cb75ef3-001e-419a-8e2a-9772db063787
 tags:
-  - 
+  - product
+  - thinking
 ---
 
 ![Geneva bus](http://pic.yupoo.com/lishugo/DtzwR4te/medish.jpg)

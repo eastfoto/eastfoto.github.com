@@ -5,6 +5,7 @@ layout: post
 permalink: /2013/10/12/8-things-i-have-learned-in-my-20s/
 tags:
   - 华丽的冒险
+  - product
 ---
 
 This Month I will be hitting the major milestone of 30 in my life. Some of you think I'm getting old, others know I have a long way to go before any real wisdom is possible. Regardless I wanted to pass some things off to my friends and also to make sure I'll be able to laugh at myself in ten years for making all the decisions.

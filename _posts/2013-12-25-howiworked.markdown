@@ -3,7 +3,8 @@ title: How I worked and will work in 2014
 layout: post
 guid: urn:uuid:6a40f39e-3f2a-4bb8-a355-0ee1dda77636
 tags:
-  - 
+  - thinking
+  - work
 ---
 
 ![Wall-E](http://pic.yupoo.com/lishugo/DpC90ysb/medish.jpg)
