@@ -5,15 +5,19 @@ layout: page
 
 a
 
-> Product Guy | Hacker | Photographer | Minimalist
+> Product Guy | Photographer | Hacker | Minimalist
 
 who involved in 
 
-> [github](https://github.com/eastfoto)
+> Design | and little Developing at [github](https://github.com/eastfoto) 
+
+lived in
+
+> Stockholm | Beijing | and love to travel
 
 mail 
 
-> lishugo##Gmail##
+> lishugo##Gmail.com
 
 or follow 
 
