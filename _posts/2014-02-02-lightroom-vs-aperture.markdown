@@ -1,5 +1,5 @@
 ---
-title: lightroom-vs-aperture
+title: Lightroom vs Aperture
 layout: post
 guid: urn:uuid:39f28571-6ff8-41d0-93fc-8db3153b61c0
 tags:
