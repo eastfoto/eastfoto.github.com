@@ -3,7 +3,7 @@ title: The chaos of China's Ads Industry
 layout: post
 guid: urn:uuid:5f24d471-a6bd-490e-b2e6-9a4fa9095d01
 tags:
-  - 
+  - advertising
 ---
 
 ![slusen](http://pic.yupoo.com/lishugo/DwyRyJn4/8OUsv.jpg)
