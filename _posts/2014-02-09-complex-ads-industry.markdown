@@ -12,10 +12,14 @@ This photo is from Slusen, Stockholm. I put too much exposure time without tripo
 
 I think the advertising industry is just like this. 
 
-*   All the agencies said they have the technology, but the trueth is the real tech and performance is limited;
-*   Click fraud
-*   Undertable deals
-*   Heavily rely on the relationship
-*   Although it's so complex, still it has great prospect just like the **fireworks**.
+* All the agencies said they have the technology, but the trueth is the real tech and performance is limited;
+
+* Click fraud;
+
+* Undertable deals;
+
+* Heavily rely on the relationship;
+
+* Although it's so complex, still it has great prospect just like the **fireworks**.
 
 
