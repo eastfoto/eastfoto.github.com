@@ -40,8 +40,25 @@ tags:
 
 * 【36kr】[WISE Talk](http://www.36kr.com/events/wisetalk-201404-bj)
 
+####5月10日 
+
+*  [五道口金融论坛](http://business.sohu.com/s2014/pbcsf-tsinghua/)
+
 ####5月11日
 
 * 【峰会】[中国互联网创业者大会](http://zz.comsenz.com/2014cy/yicheng.html#yicheng)
+
+####5月17日
+
+* 【极客公园】[未来我们怎么学习](http://www.geekpark.net/event/detail/204070)
+
+####5月21日 
+
+*  [IBM Smartcamp 创业家论坛第5期 - 教育行业专场](http://www.huodongxing.com/event/4227031583300)
+
+####5月24日 
+
+*   [点名时间第三届10×10 智能产品趋势大会 北京加场](http://www.huodongxing.com/go/demohour3bj)
+
 
 
